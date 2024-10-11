@@ -1,2 +1,2 @@
-# QueenPy
- Um projeto simples com Python, Flask e MySQL
+# RedirPy
+ Um projetinho simples com Python, Flask e MySQL.
